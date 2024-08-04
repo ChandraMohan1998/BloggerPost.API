@@ -1,0 +1,268 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|c:\\blogpost_project\\blogpostapi\\blogpost.api\\blogpost.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|solutionrelative:blogpost.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|c:\\blogpost_project\\blogpostapi\\blogpost.api\\blogpost.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|solutionrelative:blogpost.api\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|c:\\blogpost_project\\blogpostapi\\blogpost.api\\blogpost.api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|solutionrelative:blogpost.api\\repositories\\implementation\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|c:\\blogpost_project\\blogpostapi\\blogpost.api\\blogpost.api\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|solutionrelative:blogpost.api\\repositories\\interface\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|c:\\blogpost_project\\blogpostapi\\blogpost.api\\blogpost.api\\model\\dtos\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|solutionrelative:blogpost.api\\model\\dtos\\updatecategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|c:\\blogpost_project\\blogpostapi\\blogpost.api\\blogpost.api\\model\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|solutionrelative:blogpost.api\\model\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|c:\\blogpost_project\\blogpostapi\\blogpost.api\\blogpost.api\\model\\dtos\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|solutionrelative:blogpost.api\\model\\dtos\\createcategoryrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|c:\\blogpost_project\\blogpostapi\\blogpost.api\\blogpost.api\\model\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|solutionrelative:blogpost.api\\model\\domain\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|c:\\blogpost_project\\blogpostapi\\blogpost.api\\blogpost.api\\blogpost.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|solutionrelative:blogpost.api\\blogpost.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|c:\\blogpost_project\\blogpostapi\\blogpost.api\\blogpost.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|solutionrelative:blogpost.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|c:\\blogpost_project\\blogpostapi\\blogpost.api\\blogpost.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|solutionrelative:blogpost.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|c:\\blogpost_project\\blogpostapi\\blogpost.api\\blogpost.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|solutionrelative:blogpost.api\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|c:\\blogpost_project\\blogpostapi\\blogpost.api\\blogpost.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|solutionrelative:blogpost.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|c:\\blogpost_project\\blogpostapi\\blogpost.api\\blogpost.api\\model\\domain\\bloggerpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|solutionrelative:blogpost.api\\model\\domain\\bloggerpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|c:\\blogpost_project\\blogpostapi\\blogpost.api\\blogpost.api\\migrations\\20240803145507_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7D4CE3-8422-4897-8C10-DDEADA9EEAC4}|BlogPost.API\\BlogPost.API.csproj|solutionrelative:blogpost.api\\migrations\\20240803145507_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BlogPost.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "ToolTip": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "RelativeToolTip": "BlogPost.API\\Repositories\\Implementation\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:52:08.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "BlogPost.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "ToolTip": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "RelativeToolTip": "BlogPost.API\\Repositories\\Interface\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:49:40.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "BlogPost.API\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "BlogPost.API\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAF0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T16:47:37.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Model\\Domain\\Category.cs",
+              "RelativeDocumentMoniker": "BlogPost.API\\Model\\Domain\\Category.cs",
+              "ToolTip": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Model\\Domain\\Category.cs",
+              "RelativeToolTip": "BlogPost.API\\Model\\Domain\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:15:08.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Program.cs",
+              "RelativeDocumentMoniker": "BlogPost.API\\Program.cs",
+              "ToolTip": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Program.cs",
+              "RelativeToolTip": "BlogPost.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:05:19.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UpdateCategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Model\\DTOs\\UpdateCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "BlogPost.API\\Model\\DTOs\\UpdateCategoryRequestDto.cs",
+              "ToolTip": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Model\\DTOs\\UpdateCategoryRequestDto.cs",
+              "RelativeToolTip": "BlogPost.API\\Model\\DTOs\\UpdateCategoryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-04T06:38:47.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Model\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "BlogPost.API\\Model\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Model\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "BlogPost.API\\Model\\DTOs\\CategoryDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:07:54.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateCategoryRequestDto.cs",
+              "DocumentMoniker": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Model\\DTOs\\CreateCategoryRequestDto.cs",
+              "RelativeDocumentMoniker": "BlogPost.API\\Model\\DTOs\\CreateCategoryRequestDto.cs",
+              "ToolTip": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Model\\DTOs\\CreateCategoryRequestDto.cs",
+              "RelativeToolTip": "BlogPost.API\\Model\\DTOs\\CreateCategoryRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T17:03:07.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BlogPost.API\\appsettings.json",
+              "ToolTip": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\appsettings.json",
+              "RelativeToolTip": "BlogPost.API\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T14:24:50.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240803145507_Initial Migration.cs",
+              "DocumentMoniker": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Migrations\\20240803145507_Initial Migration.cs",
+              "RelativeDocumentMoniker": "BlogPost.API\\Migrations\\20240803145507_Initial Migration.cs",
+              "ToolTip": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Migrations\\20240803145507_Initial Migration.cs",
+              "RelativeToolTip": "BlogPost.API\\Migrations\\20240803145507_Initial Migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:55:08.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "BlogPost.API\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "BlogPost.API\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:20:41.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BloggerPost.cs",
+              "DocumentMoniker": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Model\\Domain\\BloggerPost.cs",
+              "RelativeDocumentMoniker": "BlogPost.API\\Model\\Domain\\BloggerPost.cs",
+              "ToolTip": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Model\\Domain\\BloggerPost.cs",
+              "RelativeToolTip": "BlogPost.API\\Model\\Domain\\BloggerPost.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:10:52.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BlogPost.API.csproj",
+              "DocumentMoniker": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\BlogPost.API.csproj",
+              "RelativeDocumentMoniker": "BlogPost.API\\BlogPost.API.csproj",
+              "ToolTip": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\BlogPost.API.csproj",
+              "RelativeToolTip": "BlogPost.API\\BlogPost.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-03T14:02:22.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDBContext.cs",
+              "DocumentMoniker": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Data\\ApplicationDBContext.cs",
+              "RelativeDocumentMoniker": "BlogPost.API\\Data\\ApplicationDBContext.cs",
+              "ToolTip": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Data\\ApplicationDBContext.cs",
+              "RelativeToolTip": "BlogPost.API\\Data\\ApplicationDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-03T14:08:04.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "BlogPost.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\BlogPost_Project\\BlogPostAPI\\BlogPost.API\\BlogPost.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "BlogPost.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABMAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-03T14:05:07.703Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
